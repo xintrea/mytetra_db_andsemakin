@@ -64,6 +64,7 @@
      <record id="1575203459xcmzoiykff" name="Разбить (split) строку по нескольким разделителям в Python" author="br0ke" url="https://stackoverflow.com/a/4998688/10650942" tags="python, str, string, split, multiple, delimeter, delimeters, re" ctime="20191201173059" dir="1575203459y0kbg1is44" file="text.html"/>
      <record id="15752037230itpv09izg" name="Отсортировать версии в Python" author="br0ke" url="https://stackoverflow.com/a/43408917/10650942" tags="python, version, versions, sort" ctime="20191201173523" dir="1575203723gu08o4c4tf" file="text.html"/>
      <record id="1575206157ejkj7am8o6" name="Распаковать любой архив в Python" author="br0ke" url="https://stackoverflow.com/a/56182972/10650942" tags="python, archive, archives, unpack, open, zip, tar, tgz, shutil" ctime="20191201181557" dir="1575206157p5kzewu4o9" file="text.html"/>
+     <record id="1588747838c1xkx7ddy3" name="Получить имя текущего скрипта на Python" author="br0ke" url="https://stackoverflow.com/a/4152986/10650942" tags="python, script, file, name, path, __file__" ctime="20200506115038" dir="1588747838xm8yfxb152" file="text.html"/>
     </recordtable>
     <node crypt="" id="1515646982ckgyyx8n4l" name="Основы языка">
      <recordtable>
@@ -90,6 +91,7 @@
       <record id="1562157108tjx3ov1akz" name="Прочитать мета-данные аудиофайлов из Python при помощи tinytag" author="br0ke" url="https://github.com/devsnd/tinytag" tags="python, audio, audiofile, file, meta, data, tag, tags, id3, mp3, opus, ogg, tinytag" ctime="20190703173148" dir="1562157108auo736c6qz" file="text.html"/>
       <record id="15621581910qfqahmomk" name="Конвертировать число в строку в Python" author="br0ke" url="https://github.com/savoirfairelinux/num2words" tags="python, number, numbers, convert, translate, to, word, words, num2words," ctime="20190703174951" dir="15621581916tldbze56t" file="text.html"/>
       <record id="1569920487oav44n5ixy" name="Распарсить Enum из командной строки через argparse" author="br0ke" url="https://stackoverflow.com/a/46385352/10650942" tags="python, arg, parse, argparse, enum, argument, parser" ctime="20191001140127" dir="1569920487vz8kyqsx4j" file="text.html"/>
+      <record id="1589709176sylr946xk2" name="Сделать dataclass хэшируемым в Python" author="br0ke" url="https://stackoverflow.com/a/52390734/10650942" tags="python, data, class, classes, dataclass, dataclasses, hash, hashable" ctime="20200517145256" dir="1589709176yq2vg2wbki" file="text.html"/>
      </recordtable>
      <node crypt="" id="15156470021ol4cff9aa" name="Flask">
       <recordtable>
@@ -132,6 +134,7 @@
        <record id="1534225142l6ukx6057c" name="assert-методы в unittest в Python" author="br0ke" url="https://docs.python.org/3/library/unittest.html" tags="python, unittest, test, assert, assertEqual, assertIn, assertIs" ctime="20180814103902" dir="1534225142mgq6x5e06t" file="text.html"/>
        <record id="15503317060kxq84552v" name="Заглушки (mock) для вложенных функций в Python" author="br0ke" url="https://stackoverflow.com/a/32956627/10650942" tags="python, stdlib, unittest, mock, nested, function, callable, rerurn_value" ctime="20190216204146" dir="1550331706s3yzfsbd5c" file="text.html"/>
        <record id="15557532873ud812d4a6" name="Заглушки (mock) для свойств (property) в Python" author="br0ke" url="https://stackoverflow.com/a/25424012/10650942" tags="python, unit, test, unittest, mock, property, PropertyMock" ctime="20190420144127" dir="1555753287u0u9to1ujk" file="text.html"/>
+       <record id="1577461336m8ni34rbqm" name="Получить список аргументов, с которыми вызывался мок в Python" author="br0ke" url="https://docs.python.org/3/library/unittest.mock.html" tags="python, test, tests, unittest, mock, mocking, call, calls, arg, args, kwargs, called" ctime="20191227204216" dir="15774613368tx4873xea" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="1551340836g9myx2syg6" name="Celery">
@@ -144,6 +147,9 @@
        <record id="1551699106ic4et3qs2w" name="Перехват вывода stdout и stderr в pytest" author="br0ke" url="https://docs.pytest.org/en/latest/capture.html" tags="python, test, pytest, capture, stdout, stderr, capsys, capsysbinary, capfd, capfdbinary" ctime="20190304163146" dir="1551699106saf37g8tl9" file="text.html"/>
        <record id="1555753951o9i612nq2k" name="Проверить, что в блоке кода не произошло исключений, в pytest" author="br0ke" url="https://stackoverflow.com/a/20275035/10650942" tags="python, test, unit, pytest, fail, exception, assert" ctime="20190420145231" dir="1555753951emcoho7e8n" file="text.html"/>
        <record id="1569920682anwpts5f63" name="Запустить pytest так, чтобы он понимал импорты относительно текущей директории" author="br0ke" url="https://stackoverflow.com/a/34140498/10650942" tags="python, pytest, run, execute, PYTHONPATH, path, import, ImportError" ctime="20191001140442" dir="156992068256tgqy3cg1" file="text.html"/>
+       <record id="157614080999w6jtmi7c" name="Показать рейтинг самых медленных тестов" author="br0ke" url="https://stackoverflow.com/a/27899853/10650942" tags="python, test, pytest, py.test, slow, slowest, rating, digest, list, duration, durations" ctime="20191212135329" dir="1576140809hwbxb8z24f" file="text.html"/>
+       <record id="1576503101hdwja54vbw" name="Пропустить тест в pytest" author="br0ke" url="http://doc.pytest.org/en/latest/skipping.html" tags="python, pytest, py.test, test, skip, skipping, mark" ctime="20191216183141" dir="15765031019ibeudfqg6" file="text.html"/>
+       <record id="1576503229kni8ipz70d" name="Пометить тест падающим в pytest" author="br0ke" url="http://doc.pytest.org/en/latest/skipping.html" tags="python, pytest, py.test, test, mark, fail, failing, expected, xfail" ctime="20191216183349" dir="1576503229vqdnrtv1mw" file="text.html"/>
       </recordtable>
      </node>
      <node crypt="" id="1554038688niibu2rc9c" name="selenium">
@@ -163,12 +169,24 @@
        <record id="1562157820u2v0xzbe6n" name="Установить обложку альбома в MP3 при помощи eyeD3" author="br0ke" url="https://stackoverflow.com/a/39316853/10650942" tags="python, eyed3d, album, art, picture, set, tag, id3" ctime="20190703174340" dir="1562157820me13plhs3f" file="text.html"/>
       </recordtable>
      </node>
+     <node crypt="" id="15759757319arl4jw5sy" name="psycopg2">
+      <recordtable>
+       <record id="157597655608ikhxlf07" name="Аннотации типов для psycopg2" author="br0ke" url="" tags="python, postgre, postgres, postgresql, psycopg, psycopg2, type, types, hint, hints, annotation, annotations, extensions" ctime="20191210161556" dir="1575976556b35vo2rwix" file="text.html"/>
+       <record id="15759841416ahq9ww36k" name="Работа с объектами UUID в psycopg2" author="br0ke" url="https://stackoverflow.com/a/59268003/10650942" tags="python, psycopg2, psycopg, postgre, postgres, postgresql, uuid, adapter" ctime="20191210182221" dir="15759841411rgug2680x" file="text.html"/>
+       <record id="1575984409crcw2p7692" name="Вставить несколько строк одним запросов в psycopg2" author="br0ke" url="https://stackoverflow.com/a/30985541/10650942" tags="python, psycopg, psycopg2, postgre, postgres, postgresql, insert, many, bulk, batch, create, execute_values" ctime="20191210182649" dir="1575984409ox3r0xwtbe" file="text.html"/>
+       <record id="157605088179dnijzv8f" name="Экранировать опасные симолы в запросах в psycopg2" author="br0ke" url="https://stackoverflow.com/a/3871398/10650942" tags="python, psycopg, psycopg2, sql, postgre, postgres, postgresql, escape, secure, query, data, substitute, substitution, placeholder, placeholders, mogrify" ctime="20191211125441" dir="1576050881eavwh1l5ur" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1588835469ek24nb4aue" name="Pelican">
+      <recordtable>
+       <record id="15888357378dntoyropq" name="Добавить статичные файлы в вывод Pelican" author="br0ke" url="https://stackoverflow.com/a/31270471/10650942" tags="pelican, blog, static, extra, favicon, readme, cname" ctime="20200507121537" dir="158883573799lqqn0r7z" file="text.html"/>
+      </recordtable>
+     </node>
     </node>
     <node crypt="" id="15201477466nixlipmqg" name="Инструменты">
      <recordtable>
       <record id="1520150927ftsfjtxelv" name="pyenv -- менеджер версий интерпретатора Python" author="br0ke" url="https://github.com/pyenv/pyenv" tags="python, pyenv, install, pipenv, pip, pypy, " ctime="20180304130847" dir="1520150927puobq8jldy" file="text.html"/>
       <record id="1549704416qimbktix03" name="pudb -- консольный графический дебаггер для Python" author="br0ke" url="https://pypi.org/project/pudb/" tags="python, tool, tools, pdb, pudb, debug, debugger, cli, pseudographics, pseudo, graphics" ctime="20190209142656" dir="1549704416uffe4kkxyc" file="text.html"/>
-      <record id="1561282302c5j0txgwlt" name="asdf -- универсальный менеджер версий" author="br0ke" url="https://github.com/asdf-vm/asdf" tags="asdf, asdf-vm, version, versions, manager, management, node, nodejs, node.js, nvm, python, python2, python3, pyenv, pipenv, tool" ctime="20190623143142" dir="1561282302yt45k42261" file="text.html"/>
      </recordtable>
      <node crypt="" id="1551871492ezy1op4e0x" name="IPython">
       <recordtable>
@@ -180,6 +198,31 @@
       <recordtable>
        <record id="1520148264v1qng0aee9" name="Менеджер зависимостей pipenv" author="br0ke" url="https://pypi.python.org/pypi/pipenv" tags="python, pipenv, virtualenv, tool, tools, venv, virtual envirtonment, requirements.txt, pip, install" ctime="20191201173656" dir="15201482647bkxsjrx4o" file="text.html"/>
        <record id="1575203942lci1qnfjoz" name="Установить пакет как редактируемую зависимость в pipenv" author="br0ke" url="https://pipenv-fork.readthedocs.io/en/latest/basics.html#editable-dependencies-e-g-e" tags="python, pip, pipenv, editable, dev" ctime="20191201173902" dir="1575203942n10kemwv99" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1577607385ju319i2exp" name="poetry">
+      <recordtable>
+       <record id="1577607432zkjvmsd3cr" name="Узнать, какое виртуальное окружение использует poetry" author="br0ke" url="https://youtrack.jetbrains.com/issue/PY-30702" tags="python, tool, tools, poetry, virtual, environment, env, virtualenv, venv, interpreter, which" ctime="20191229131712" dir="157760743286xgtzj15x" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1578478579z313ja9880" name="black">
+      <recordtable>
+       <record id="15784787453x4i319ine" name="Установить black" author="br0ke" url="https://github.com/psf/black" tags="python, black, code, style, guide, format, formatter, auto, autoformatter, install, pip, pipenv" ctime="20200108151905" dir="1578478745lvls0hrd57" file="text.html"/>
+       <record id="1578479639nogz53l5ur" name="Настроить длину строки и исключенные пути в black" author="br0ke" url="" tags="python, black, code, style, guide, format, formatting, auto, tool, config, pyproject, toml, pyproject.toml, line, length, line-length, exclude, files" ctime="20200108153359" dir="15784796399h1vsalvbh" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1578478584gp37ej5pnt" name="isort">
+      <recordtable>
+       <record id="1578486094so29cdgwtl" name="Установить isort" author="br0ke" url="https://github.com/timothycrosley/isort" tags="python, isort, import, sort, sorting, order, ordering, install, pip" ctime="20200108172134" dir="15784860945bkv019nlk" file="text.html"/>
+       <record id="1578486188eufllesdqk" name="Использование isort" author="br0ke" url="https://github.com/timothycrosley/isort" tags="python, isort, import, sort, sorting, order, ordering, usage, example" ctime="20200108172308" dir="1578486188pdsrnzs12m" file="text.html"/>
+       <record id="1578486330mu3wb8fn4p" name="Использование isort вместе с black" author="br0ke" url="https://github.com/psf/black" tags="python, isort, black, import, sort, sorting, config" ctime="20200108172530" dir="1578486330izshx3j47m" file="text.html"/>
+       <record id="15784869774dq9ablzt2" name="Использование isort в pre-commit" author="br0ke" url="https://github.com/asottile/seed-isort-config" tags="python, isort, import, sort, sorting, git, hook, hooks, pre, commit, pre-commit, seed-isort-config, seed, known, third, party, 3rd, module, modules, package, packages, library, libraries" ctime="20200108173617" dir="157848697739dxu02vyl" file="text.html"/>
+      </recordtable>
+     </node>
+     <node crypt="" id="1583223637id0a510kio" name="asdf">
+      <recordtable>
+       <record id="1561282302c5j0txgwlt" name="asdf -- универсальный менеджер версий" author="br0ke" url="https://github.com/asdf-vm/asdf" tags="asdf, asdf-vm, version, versions, manager, management, node, nodejs, node.js, nvm, python, python2, python3, pyenv, pipenv, tool" ctime="20200303132042" dir="1561282302yt45k42261" file="text.html"/>
+       <record id="158322388247rbro9wwd" name="Использовать PyPy через asdf" author="br0ke" url="" tags="asdf, python, pypy, pypy2, pypy3" ctime="20200303132442" dir="1583223882rtdjjxjmax" file="text.html"/>
       </recordtable>
      </node>
     </node>
@@ -198,11 +241,9 @@
      <record id="1524124260efa0n26w68" name="Скопировать директорию с выводом прогресса в Linux" author="br0ke" url="https://unix.stackexchange.com/a/110253" tags="linux, unix, rsync, copy, cp, directory, folder, recursively, progress, progressbar" ctime="20180419125100" dir="1524124260bj15xy80eb" file="text.html"/>
      <record id="1524135969m18pluxwhd" name="Примонтировать автоматически Samba к Linux" author="br0ke" url="https://wiki.ubuntu.com/MountWindowsSharesPermanently" tags="linux, mount, nfs, cifs, share, fstab" ctime="20180419160609" dir="1524135969q5wp927fzk" file="text.html"/>
      <record id="1524912649px7pc8hnzg" name="cURL запросы через Tor" author="br0ke" url="https://www.devdungeon.com/content/making-tor-requests-command-line-curl" tags="linux, curl, http, query, download, tor, socks, socks5, proxy" ctime="20180428155049" dir="15249126497ccj4xyqys" file="text.html"/>
-     <record id="1525425455xcbjirg0gc" name="Экспортировать переменную окружения перманентно" author="br0ke" url="https://stackoverflow.com/a/31546962/9740122" tags="linux, unix, shell, env, environment, variable, variables, bashrc, profile, export, bash, fish" ctime="20180504141735" dir="1525425455v4cj0qmj12" file="text.html"/>
      <record id="1525426515f0w7qr1ezs" name="Сгенерировать ключи SSH" author="br0ke" url="https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/" tags="linux, unix, ssh, ssh-key, keys, ssh-keygen, rsa, git, test" ctime="20180504143523" dir="15254265152yx0835xw4" file="text.html"/>
      <record id="1526010605xvtsmo0ve5" name="Статистика использования диска в Linux" author="br0ke" url="https://www.cyberciti.biz/faq/linux-check-disk-space-command/" tags="linux, disk, hard disk, space, usage, disk usage, stats, monitor, du, df" ctime="20180511085005" dir="1526010605p2x587652c" file="text.html"/>
      <record id="1526025847o7x5j9ny8l" name="Выполнение команд по расписанию через CRON в LInux" author="br0ke" url="https://crontab-generator.org/" tags="linux, cron, schedule" ctime="20180511130407" dir="1526025847d4hiqat6k5" file="text.html"/>
-     <record id="1526026319tnuai2dkno" name="Сохранять историю команд bash из нескольких терминалов одновременно" author="br0ke" url="https://unix.stackexchange.com/a/48113" tags="linux, bash, terminal, bash_history, bashrc" ctime="20180511131159" dir="1526026319et3wlb0q8f" file="text.html"/>
      <record id="1528137610p54swtp6r1" name="scp stalled в Linux" author="br0ke" url="https://davidjb.com/blog/2014/03/scprsync-transfers-stall-at-exactly-2112-kb/" tags="linux, ssh, scp, copy, stall, stalled, 2112" ctime="20180604234010" dir="1528137610poo3k1yg4f" file="text.html"/>
      <record id="1530594219p0hv2405qw" name="Записать загрузочный ISO на USB в Linux" author="br0ke" url="" tags="linux, iso, usb, burn, bootable, etcher" ctime="20180703100339" dir="1530594219ko8907jigp" file="text.html"/>
      <record id="1531248270vk6e1ljzmh" name="Очистить файл от пустых строк в Linux" author="br0ke" url="https://stackoverflow.com/a/29549497" tags="linux, empty lines, bash, sh, awk, pipe, pipes, sed, magic" ctime="20180710234430" dir="15312482702zxaumeb4j" file="text.html"/>
@@ -213,7 +254,6 @@
      <record id="15328543339fz16gv3di" name="Заставить пользователя сменить пароль при следующем входе в систему в Linux" author="br0ke" url="https://askubuntu.com/a/30118" tags="linux, passwd, password, expire, chage, change, force" ctime="20180729135213" dir="1532854333bdw3btd8qg" file="text.html"/>
      <record id="1532864925568nw4fvs1" name="Поиск grep в потоке данных в Linux" author="br0ke" url="https://stackoverflow.com/a/7162898" tags="linux, grep, tail, tailf, stream, " ctime="20180729164845" dir="1532864925cvmkzztx7u" file="text.html"/>
      <record id="15328717304l1l9a1d8w" name="Отобразить информацию о системе Linux" author="br0ke" url="https://fossbytes.com/linux-distribution-logo-ascii-art-terminal/" tags="linux, screenfetch, neofetch" ctime="20180729184210" dir="1532871730n4j5kd3srv" file="text.html"/>
-     <record id="1533196921hq31rhaejv" name="Сохранять историю bash в нескольких параллельных сессиях в Linux" author="br0ke" url="https://unix.stackexchange.com/questions/1288/preserve-bash-history-in-multiple-terminal-windows/48113#48113" tags="linux, unix, shell, sh, bash, history, bash_history, bashrc" ctime="20180802130201" dir="1533196921vs319j8v9t" file="text.html"/>
      <record id="1533820231fzwpfavx82" name="Туннелирование трафика в SSH" author="br0ke" url="https://blog.trackets.com/2014/05/17/ssh-tunnel-local-and-remote-port-forwarding-explained-with-examples.html" tags="linux, unix, ssh, tunnel, port forwarding, port, tcp" ctime="20180809181031" dir="15338202317tmqikk75w" file="text.html"/>
      <record id="1534218012nkixfsqsql" name="Примонтировать общую папку VirtualBox в гостевой машине Linux" author="br0ke" url="https://serverfault.com/a/674978" tags="linux, virtual, box, virtual box, virtualbox, shared folder, shared, folder, guest, mount, vboxsf" ctime="20180814084012" dir="15342180121kj5axj8zk" file="text.html"/>
      <record id="1534751173a0dzugtc32" name="Загрузить файл из терминала на transfer.sh" author="br0ke" url="https://github.com/dutchcoders/transfer.sh/" tags="linux, sh, bash, terminal, tty, cli, transfer, transfer.sh, upload, download" ctime="20180820124613" dir="15347511737zhe29iyxg" file="text.html"/>
@@ -225,8 +265,6 @@
      <record id="1541058217gl8hvulq6m" name="Использование find в Linux (поиск файлов)" author="br0ke" url="https://www.linode.com/docs/tools-reference/tools/find-files-in-linux-using-the-command-line/" tags="linux, unix, find, search, file, filename, extension, glob" ctime="20181101124337" dir="1541058217x3bruiljmf" file="text.html"/>
      <record id="1541417126x22f8e8lm7" name="Диагностика SSL" author="br0ke" url="https://stackoverflow.com/questions/17742003/debugging-ssl-handshake" tags="ssl, https, debug, troubleshooting, debugging, openssl, curl" ctime="20181105162526" dir="15414171266bfjv4nsmg" file="text.html"/>
      <record id="15442793651y6zqx8uuq" name="Очистить файл в Linux" author="br0ke" url="bash$ truncate -s 0 myfile.txt" tags="linux, unix, empty, file, truncate" ctime="20181208192925" dir="1544279365opyz1sb332" file="text.html"/>
-     <record id="1544281148r7nvys0rv3" name="Перенаправление вывода в bash в Linux" author="br0ke" url="https://www.tldp.org/LDP/abs/html/io-redirection.html" tags="linux, unix, bash, sh, io, redirection, append, stdout, stderr, stdin" ctime="20181208195908" dir="1544281148vtu4evtjvp" file="text.html"/>
-     <record id="1544283355palekkfjfo" name="Записать несколько строк из bash в файл в Linux" author="br0ke" url="https://unix.stackexchange.com/a/77278" tags="linux, unix, bash, multiline, write, stdin, stdout, eot" ctime="20181208203555" dir="1544283355zesdjtu2eq" file="text.html"/>
      <record id="1544284228nwzgf5xl2a" name="Выделить несколько файлов/директорий в midnight commander (mc)" author="br0ke" url="https://ubuntuforums.org/showthread.php?t=1166646" tags="linux, unix, midnight, commander, midnight commander, mc, select, deselect, multiple, file, files, directory, directories" ctime="20181208205028" dir="154428422869w73gsign" file="text.html"/>
      <record id="1544444240r6zffs9531" name="Сменить редактор в midnight commander (mc)" author="br0ke" url="https://askubuntu.com/a/486205" tags="linux, unix, cli, mc, midnight, commander, midnight commander, file, manager, editor, nano, mcedit, select-editor" ctime="20181210171720" dir="1544444240ulan7d8ydf" file="text.html"/>
      <record id="15444443314ifyzvj84c" name="Добавить номера строк к выводу cat" author="br0ke" url="https://www.cyberciti.biz/faq/cat-line-numbers-and-ranges-under-unix-linux/" tags="linux, unix, cat, cli, line, number" ctime="20181210171851" dir="1544444331ux59t0i25l" file="text.html"/>
@@ -248,13 +286,15 @@
      <record id="1566379388isz3v03625" name="Установить asdf -- универсальный менеджер версий" author="br0ke" url="https://asdf-vm.com/" tags="asdf, asdf-vm, version, versions, manager, management, node, nodejs, node.js, nvm, npm, python, python2, python3, pyenv, pipenv, tool, tool-versions" ctime="20190821142308" dir="1566379388sirw2mnycx" file="text.html"/>
      <record id="1574158120hxh8ye92uj" name="Сохранить файл с sudo в vim" author="br0ke" url="https://stackoverflow.com/questions/2600783/how-does-the-vim-write-with-sudo-trick-work/7078429#7078429" tags="linux, vi, vim, sudo, root, save, open" ctime="20191119150840" dir="1574158120ynhyz9csns" file="text.html"/>
      <record id="15745412896uck79ms2p" name="Установить клиент Travis CI на Linux" author="br0ke" url="https://github.com/travis-ci/travis.rb#installation" tags="linux, installation, travis, ci, travis-ci, cli, github" ctime="20191124013453" dir="1574541289ttijz4r219" file="text.html"/>
+     <record id="15776932007ba0y5zl3o" name="Записать загрузочный ISO с Windows на USB в Linux через WoeUSB" author="br0ke" url="https://github.com/slacka/WoeUSB" tags="linux, windows, usb, bootable, flask, drive, stick, woe, woeusb" ctime="20191230130640" dir="1577693200qg0o2w1omu" file="text.html"/>
+     <record id="1521537340r5clesc7zq" name="Установить MyTetra на Linux" author="br0ke" url="https://webhamster.ru/site/page/index/articles/projectcode/105" tags="linux, mytetra, info, data, note, pim, personal information manager" ctime="20200510211911" dir="1521537340pvqw82em0f" file="text.html"/>
+     <record id="1589876000rf0rf2ixfe" name="Вывести тело ответа без лишнего вывода через команду wget" author="br0ke" url="https://superuser.com/a/977047/993215" tags="linux, unix, http, wget, response, body, stdout" ctime="20200519131320" dir="158987600056fq5yuzq3" file="text.html"/>
     </recordtable>
     <node crypt="" id="1522088279icc3ddvzqi" name="Fedora">
      <recordtable>
       <record id="15227372979l22tvlwap" name="Установить pgAdmin 4 на Fedora" author="br0ke" url="https://www.pgadmin.org/download/pgadmin-4-rpm/" tags="linux, fedora, redhat, rpm, pgadmin, pgadmin4, postgre, postgres, postgresql" ctime="20180403113457" dir="1522737297wdbwpdz89k" file="text.html"/>
-      <record id="1523260556r8n18qd12u" name="Установить TeamViewer на Fedora 27" author="br0ke" url="https://www.itzgeek.com/how-tos/linux/fedora-how-tos/install-teamviewer-on-fedora-22-21.html" tags="linux, fedora, install, teamviewer, tw, rpm, dnf" ctime="20180409125556" dir="152326055668q1q76zo2" file="text.html"/>
-      <record id="1523261186mtwiir7clj" name="Установить LibreOffice 6 на Fedora 27" author="br0ke" url="https://www.tecmint.com/install-libreoffice-on-rhel-centos-fedora-debian-ubuntu-linux-mint/" tags="linux, fedora, libreoffice, writer, calc, openoffice, odt" ctime="20180409130626" dir="1523261186iaixlebiit" file="text.html"/>
-      <record id="1523442301gy9ltr7ytq" name="Обновить список программ в меню в KDE" author="br0ke" url="https://forum.kde.org/viewtopic.php?f=67&amp;t=129411" tags="linux, kde, desktop, application, applications, app, apps, kbuildsycoca5" ctime="20180411152501" dir="1523442301nvjpis6vta" file="text.html"/>
+      <record id="1523260556r8n18qd12u" name="Установить TeamViewer на Fedora" author="br0ke" url="https://www.itzgeek.com/how-tos/linux/fedora-how-tos/install-teamviewer-on-fedora-22-21.html" tags="linux, fedora, install, teamviewer, tw, rpm, dnf" ctime="20180409125556" dir="152326055668q1q76zo2" file="text.html"/>
+      <record id="1523261186mtwiir7clj" name="Установить LibreOffice 6 на Fedora" author="br0ke" url="https://www.tecmint.com/install-libreoffice-on-rhel-centos-fedora-debian-ubuntu-linux-mint/" tags="linux, fedora, libreoffice, writer, calc, openoffice, odt" ctime="20180409130626" dir="1523261186iaixlebiit" file="text.html"/>
       <record id="1523446799l3uw8be489" name="Установить репозиторий RPM Fusion в Fedora" author="br0ke" url="https://ask.fedoraproject.org/en/question/42073/how-i-can-install-audio-codecs-like-mp3/" tags="linux, fedora, rpm, rpmfusion, repo, non-free, mp3, mp4, avi, aac" ctime="20180411163959" dir="1523446799uq92y3y74z" file="text.html"/>
       <record id="1523446876r2jnlul98p" name="Установить кодеки для аудио и видео в Fedora" author="br0ke" url="https://ask.fedoraproject.org/en/question/42073/how-i-can-install-audio-codecs-like-mp3/" tags="linux, fedora, codecs, audio, video, mp3, mp4" ctime="20180411164116" dir="1523446876ub5pnt0iyo" file="text.html"/>
       <record id="1523446983uhma53jwa5" name="Установить VLC на Fedora" author="br0ke" url="" tags="linux, fedora, rpm, vlc, vlcplayer" ctime="20180411164303" dir="15234469834ecpswwpru" file="text.html"/>
@@ -262,7 +302,7 @@
       <record id="15238741222tn63gr8ph" name="Установить Postman на Fedora" author="br0ke" url="https://blog.scottlowe.org/2017/11/21/installing-postman-fedora-27/" tags="linux, fedora, postman, api, rest, restful, http, tool, install" ctime="20180416152202" dir="1523874122ugpjxvpj4u" file="text.html"/>
       <record id="1523876455fh3m2twdzk" name="Установить SQLite Browser на Fedora" author="br0ke" url="http://sqlitebrowser.org/" tags="linux, fedora, db, dbms, sqlite, sqlite3, sqlitebrowser, sqlite-browser, install, tool" ctime="20180416160055" dir="15238764559gsef8vjfp" file="text.html"/>
       <record id="15238771767kovf9gky5" name="Установить Wireshark на Fedora" author="br0ke" url="https://fedoramagazine.org/how-to-install-wireshark-fedora/" tags="linux, fedora, wireshark, install, tool, networking, network, pcap, sniff, sniffer, traffic, traffic capture" ctime="20180416161256" dir="1523877176vre8qfhncx" file="text.html"/>
-      <record id="1523882494gbrc3v29d9" name="Установить qBittorrent на Fedora 27" author="br0ke" url="https://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/install-qbittorrent-on-ubuntu-16-04-fedora-25-alternative-to-utorrent.html" tags="linux, fedora, install, torrent, bittorrent, qbittorrent, qt, install" ctime="20180416174134" dir="1523882494ym0agkt1el" file="text.html"/>
+      <record id="1523882494gbrc3v29d9" name="Установить qBittorrent на Fedora" author="br0ke" url="https://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/install-qbittorrent-on-ubuntu-16-04-fedora-25-alternative-to-utorrent.html" tags="linux, fedora, install, torrent, bittorrent, qbittorrent, qt, install" ctime="20180416174134" dir="1523882494ym0agkt1el" file="text.html"/>
       <record id="1523971468mncojxgqjz" name="Установить GitKraken на Fedora" author="br0ke" url="https://support.gitkraken.com/how-to-install" tags="linux, fedora, developer, development, tool, git, gitkraken, kraken, vcs, install" ctime="20180417182429" dir="1523971468h503qd5vyk" file="text.html"/>
       <record id="1525419323mwmszkn2sg" name="Установить PyCharm CE на Fedora" author="br0ke" url="https://eshlox.net/2017/08/08/how-to-install-pycharm-on-fedora/" tags="linux, fedora, install, ide, pycharm, python, jetbrains" ctime="20180504123523" dir="152541932331zgjpgecl" file="text.html"/>
       <record id="1525419369n814va320s" name="Установить Pinta на Fedora" author="br0ke" url="" tags="linux, fedora, pinta, tool, editor, graphics, graphical, image, paint" ctime="20180504123609" dir="1525419369rvbd3qdqs5" file="text.html"/>
@@ -270,7 +310,6 @@
       <record id="15254257704y596b43py" name="Установить Fish на Fedora" author="br0ke" url="https://software.opensuse.org/download.html?project=shells%3Afish%3Arelease%3A2&amp;package=fish" tags="linux, fedora, shell, fish, install" ctime="20180504142250" dir="15254257704m9h0pxln0" file="text.html"/>
       <record id="1525425987r9gbe8b5xc" name="Установить chsh на Fedora" author="br0ke" url="https://ask.fedoraproject.org/en/question/89601/chsh-command-is-missing-in-fedora-24-fresh-install/?answer=89631#post-id-89631" tags="linux, fedora, chsh, change shell, command, util, install" ctime="20180504142627" dir="1525425987daoq09ctx2" file="text.html"/>
       <record id="1525603735ddp6giodlw" name="Установить httpie в Fedora" author="br0ke" url="" tags="linux, feora, install, httpie, http, curl, tool" ctime="20180506154855" dir="1525603735gdemdn65rl" file="text.html"/>
-      <record id="152577909760u8l6a9wf" name="Подключиться к скрытой беспроводной сети Wi-Fi из KDE" author="br0ke" url="https://yuenhoe.com/blog/2011/02/connecting-to-hidden-wireless-networks-using-kdes-networkmanager/" tags="linux, fedora, kde, network, networkmanager, wifi, wireless, hidden, hide, ssid" ctime="20180508163137" dir="1525779097uscihjev94" file="text.html"/>
       <record id="1525793979dtrabvdyel" name="Включить SSH на Fedora" author="br0ke" url="https://bytefreaks.net/gnulinux/fedora-25-install-start-enable-ssh-server" tags="linux, fedora, install, ssh, sshd, openssh, openssh-server, enable" ctime="20180508203939" dir="1525793979175zhpi8s3" file="text.html"/>
       <record id="1527883006porvle01q1" name="Установить KeePassXC на Fedora" author="br0ke" url="https://keepassxc.org/download/" tags="linux, fedora, password, manager, keepass, keepassxc, install" ctime="20180602005646" dir="1527883006xx26o6fasq" file="text.html"/>
       <record id="15298178377nt1zovtwo" name="Установить Flatpak на Fedora" author="br0ke" url="https://hobo.house/2018/03/16/using-signal-desktop-on-fedora-with-flatpak/" tags="flatpak, flat, container, containerization, app" ctime="20180624102357" dir="1529817837xaiafnbg17" file="text.html"/>
@@ -302,6 +341,9 @@
       <record id="1571044885n93a0g1zn1" name="Сменить ядро по умолчанию в Fedora" author="br0ke" url="https://docs.fedoraproject.org/en-US/Fedora/25/html/System_Administrators_Guide/sec-Making_Persistent_Changes_to_a_GRUB_2_Menu_Using_the_grubby_Tool.html" tags="linux, fedora, kernel, default, grub, grub2, grubby" ctime="20191014142125" dir="1571044885tkrbyni4tl" file="text.html"/>
       <record id="1574157721pzgnt0xjcq" name="Установить Skype через Flatpak на Fedora" author="br0ke" url="https://docs.fedoraproject.org/en-US/quick-docs/installing-skype/" tags="linux, fedora, flat, flatpak, flatpack, flathub, skype, install, installation" ctime="20191119150201" dir="1574157721ujz5t0la0s" file="text.html"/>
       <record id="15745411869cpp68nx2o" name="Установить Ruby на Fedora" author="br0ke" url="" tags="linux, fedora, install, dnf, ruby, rb" ctime="20191124013306" dir="15745411864k7i9eg0ps" file="text.html"/>
+      <record id="15891697920uwi8ktdcq" name="Установить Slack на Fedora" author="br0ke" url="https://copr.fedorainfracloud.org/coprs/jdoss/slack-repo/" tags="linux, fedora, slack, install, copr, messenger, messenging" ctime="20200511090312" dir="1589169792gfav7y8hfr" file="text.html"/>
+      <record id="1589170261glppmr1lhe" name="Установить Zoom на Fedora" author="br0ke" url="https://computingforgeeks.com/install-zoom-client-on-centos-8-fedora-linux/" tags="linux, fedora, install, zoom, cloud, meetings, video, conference, dnf" ctime="20200511091101" dir="1589170261ck4rt8omvi" file="text.html"/>
+      <record id="15891788784lcwvrcn2g" name="Управление репозиториями через dnf в Fedora" author="br0ke" url="https://docs.fedoraproject.org/en-US/Fedora/22/html/System_Administrators_Guide/sec-Managing_DNF_Repositories.html" tags="linux, fedora, dnf, repo, repos, managing, management, list, add, remove, enable, disable" ctime="20200511113438" dir="1589178878rh5o701abl" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15151573509guolwrlye" name="Ubuntu">
@@ -322,7 +364,6 @@
       <record id="152050603421tlhzp05y" name="Установка Inkscape в Ubuntu 16" author="br0ke" url="http://ubuntuhandbook.org/index.php/2017/01/install-inkscape-0-92-ppa-ubuntu-16-04-16-10-14-04/" tags="linux, ubuntu, ppa, inkscape, install" ctime="20180308154714" dir="1520506034oyxh5gzivd" file="text.html"/>
       <record id="15209581461b6tc0enpd" name="Определить версию Ubuntu из терминала" author="br0ke" url="https://ubuntuforums.org/showthread.php?t=796627" tags="linux, ubuntu, version, lsb_release, lts, xenial, trusty" ctime="20180313212226" dir="1520958146688c2otzkm" file="text.html"/>
       <record id="1520958548ngghz2ijzx" name="Дать пользователю права на sudo в Ubuntu" author="br0ke" url="https://askubuntu.com/questions/7477/how-can-i-add-a-new-user-as-sudoer-using-the-command-line" tags="linux, ubuntu, sudo, su, sudoers, visudo" ctime="20180313212908" dir="1520958548968vz0vun0" file="text.html"/>
-      <record id="1521537340r5clesc7zq" name="Установить MyTetra на Ubuntu" author="br0ke" url="https://webhamster.ru/site/page/index/articles/projectcode/105" tags="linux, ubuntu, mytetra, info, data, note, pim, personal information manager" ctime="20180320141540" dir="1521537340pvqw82em0f" file="text.html"/>
       <record id="1515953953muwhegesuv" name="Установить Docker на Ubuntu 16/18" author="br0ke" url="https://www.digitalocean.com/community/tutorials/docker-ubuntu-16-04-ru" tags="ubuntu, linux, docker, docker-compose, install, container, containerization, virtualization, докер, контейнер" ctime="20180417232640" dir="1515953953i2ysar6dfq" file="text.html"/>
       <record id="15248327861ny0dikxus" name="Изменить порт для службы SSH в Ubuntu 16" author="br0ke" url="https://askubuntu.com/a/958443" tags="linux, ubuntu, ssh, openssh, sshd, opensshd, config, port, 22, tcp, change port" ctime="20180427173946" dir="1524832786qfz4lqfzpx" file="text.html"/>
       <record id="15154050556azj16omyo" name="Установка fish на Ubuntu" author="br0ke" url="https://github.com/fish-shell/fish-shell" tags="bash, fish, sh, shell, оболочка, фиш, linux, ubuntu, cmd, cli, chsh" ctime="20180504142007" dir="15154050557xdd1ipk6z" file="text.html"/>
@@ -352,6 +393,10 @@
      <recordtable>
       <record id="1549109084wd7kkvye2k" name="Выполнить несколько команд и завершиться ошибкой при хотя бы одной ошибке в скрипте Bash" author="br0ke" url="https://stackoverflow.com/a/16081218/10650942" tags="linux, unix, bash, script, fail, exit, return, code, 0, exit_code, hadolint, gitlab, ci, yaml" ctime="20190202170444" dir="1549109084gsc4bgl196" file="text.html"/>
       <record id="15752064726zfs3d8kvk" name="Узнать директорию, в которой расположен текущий скрипт в bash" author="br0ke" url="https://stackoverflow.com/a/1638397/10650942" tags="linux, sh, bash, current, directory, folder, path, script" ctime="20191201182112" dir="15752064721732mlcemr" file="text.html"/>
+      <record id="1589184163tpi1bhaoop" name="Экспортировать переменную окружения перманентно в bash" author="br0ke" url="" tags="linux, sh, bash, env, var, environment, variable, export, permanent, permanently" ctime="20200511130243" dir="15891841639a59ebfh93" file="text.html"/>
+      <record id="1589184314bclr03daxv" name="Сохранять историю команд bash из нескольких терминалов одновременно" author="br0ke" url="https://unix.stackexchange.com/a/48113" tags="linux, bash, terminal, bash_history, bashrc" ctime="20200511130514" dir="15891843140qcbiyazfm" file="text.html"/>
+      <record id="1544281148r7nvys0rv3" name="Перенаправление вывода в bash в Linux" author="br0ke" url="https://www.tldp.org/LDP/abs/html/io-redirection.html" tags="linux, unix, bash, sh, io, redirection, append, stdout, stderr, stdin" ctime="20200511130733" dir="1544281148vtu4evtjvp" file="text.html"/>
+      <record id="1544283355palekkfjfo" name="Записать несколько строк из bash в файл в Linux" author="br0ke" url="https://unix.stackexchange.com/a/77278" tags="linux, unix, bash, multiline, write, stdin, stdout, eot" ctime="20200511130744" dir="1544283355zesdjtu2eq" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1515404847zp0o2ra2xh" name="fish">
@@ -371,6 +416,10 @@
       <record id="1575204787q8n2j7oqwe" name="Запустить тест в бесконечном цикле и получать статус выхода в Fish" author="br0ke" url="" tags="fish, shell, loop, cycle, infinite, test, status, code, return" ctime="20191201175307" dir="1575204787uwprstblyl" file="text.html"/>
       <record id="1575385389fegzbi2i4f" name="Приветствие для Fish с отличной поддержкой Git" author="br0ke" url="https://gist.github.com/and-semakin/36478101a5083cfaf7c8ab77043341bd" tags="linux, shell, fish, sh, prompt, git" ctime="20191203200309" dir="1575385389215wr9s6y2" file="text.html"/>
       <record id="157579629802a1wos1so" name="Склонировать репозиторий с GitHub, используя правильные SSH-ключи и с правильным e-mail" author="br0ke" url="" tags="fish, shell, git, github, clone, personal, ssh, keys, email, user.email, config" ctime="20191208141138" dir="1575796298tk13cvp4x6" file="text.html"/>
+      <record id="157950900828n6hgodzq" name="Обойти (проитерироваться) файлы в директории в Fish" author="br0ke" url="https://stackoverflow.com/q/45558387/10650942" tags="linux, shell, fish, sh, loop, file, files, glob, iterate, iter" ctime="20200120133008" dir="1579509008h5iwv1bo55" file="text.html"/>
+      <record id="1589171769soqrnbwa2b" name="Установить fish_ssh_agent" author="br0ke" url="https://github.com/ivakyb/fish_ssh_agent" tags="fish, shell, sh, ssh, agent, ssh-agent, fish_ssh_agent, ssh-add" ctime="20200511093609" dir="1589171769jejqyanxcq" file="text.html"/>
+      <record id="15891842717zpinavxej" name="Экспортировать переменную окружения перманентно в fish" author="br0ke" url="" tags="unix, linux, sh, fish, shell, env, var, environment, variable, variables, export, set, permanent, permanently" ctime="20200511130431" dir="15891842712izweghq3b" file="text.html"/>
+      <record id="1589709274ztzsu1ukqj" name="Сложение чисел (или инкремент) в Fish" author="br0ke" url="https://stackoverflow.com/a/25828897/10650942" tags="fish, sh, shell, math, inc, increment, number, add, addition, loop, index, counter" ctime="20200517145434" dir="1589709274sjbta0xwxi" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="15159543132yxgq7odkj" name="Docker">
@@ -464,6 +513,12 @@
       <record id="1575271218m7z12arkr9" name="Сменить монитор, на котором показывается Gnome Login Menu" author="br0ke" url="https://ask.fedoraproject.org/t/gnome-login-menu-on-wrong-screen/2531" tags="linux, gnome, fedora, login, log, in, auth, authentication, pass, password, screen, monitor, another, multuple" ctime="20191202122018" dir="1575271218mp5ocuud8x" file="text.html"/>
      </recordtable>
     </node>
+    <node crypt="" id="15891840729w04qqninc" name="KDE">
+     <recordtable>
+      <record id="1523442301gy9ltr7ytq" name="Обновить список программ в меню в KDE" author="br0ke" url="https://forum.kde.org/viewtopic.php?f=67&amp;t=129411" tags="linux, kde, desktop, application, applications, app, apps, kbuildsycoca5" ctime="20200511130903" dir="1523442301nvjpis6vta" file="text.html"/>
+      <record id="152577909760u8l6a9wf" name="Подключиться к скрытой беспроводной сети Wi-Fi из KDE" author="br0ke" url="https://yuenhoe.com/blog/2011/02/connecting-to-hidden-wireless-networks-using-kdes-networkmanager/" tags="linux, fedora, kde, network, networkmanager, wifi, wireless, hidden, hide, ssid" ctime="20200511130948" dir="1525779097uscihjev94" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="15151592143t1d4riqua" name="Git">
     <recordtable>
@@ -507,6 +562,10 @@
      <record id="1575202967e508edav6p" name="Показать список тэгов в Git" author="br0ke" url="https://stackoverflow.com/a/1064505/10650942" tags="git, vcs, scm, tag, list" ctime="20191201172247" dir="1575202967qui28ixdii" file="text.html"/>
      <record id="15752031184v60k7lw9b" name="Удалить тэг на удаленном сервере в Git" author="br0ke" url="https://stackoverflow.com/a/5480292/10650942" tags="git, scm, vcs, tag, delete, remove, remote, push" ctime="20191201172518" dir="1575203118d1gdpv6f6c" file="text.html"/>
      <record id="1575205122o5r5018lkv" name="Проверить, что ветки могут быть слиты без конфликтов в Git" author="br0ke" url="https://stackoverflow.com/a/10879368/10650942" tags="git, vcs, scm, merge, check, conflict, conflicts" ctime="20191201175842" dir="1575205122775xzi5ks1" file="text.html"/>
+     <record id="1576506194ecgrt1sa3c" name="Ошибка &quot;Could not read from remote repository&quot; в git" author="br0ke" url="https://stackoverflow.com/a/40009598/10650942" tags="git, ssh, key, keys, error, issue, fatal, repository, remote, not, found, ssh-add, add, ssh-agent, agent" ctime="20191216192314" dir="15765061946jgcnx7x2v" file="text.html"/>
+     <record id="1581750078he6iabpq4k" name="Получить только название текущей ветки в Git" author="br0ke" url="https://stackoverflow.com/a/1418022/10650942" tags="git, vcs, scm, branch, name, current, HEAD" ctime="20200215120118" dir="1581750078mmcz2xa25h" file="text.html"/>
+     <record id="1582698513yzcpmqhbay" name="Получить имя ветки, к которой принадлежит коммит в Git" author="br0ke" url="https://stackoverflow.com/a/49181420/10650942" tags="git, vcs, scm, branch, name, commit, name-rev, which" ctime="20200226112833" dir="1582698513f6nlre10c8" file="text.html"/>
+     <record id="1589560119ni6tai9ynd" name="Сменить SSH-ключи для определенного репозитория" author="br0ke" url="https://stackoverflow.com/a/38474137/10650942" tags="git, ssh, keys, config, repo, command, clone, id_rsa, core, sshCommand" ctime="20200515212839" dir="15895601191khsl9l3wz" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="15153941786am3jbgm5f" name="Blockchain">
@@ -661,12 +720,49 @@
      <record id="1532853712pakmw3cc69" name="Ошибка при подключении по RDP к старой машине Windows с последней Windows 10" author="br0ke" url="https://support.microsoft.com/en-us/help/4295591/credssp-encryption-oracle-remediation-error-when-to-rdp-to-azure-vm" tags="windows, rdp, remote desktop, mstsc, error, credssp, encryption, oracle" ctime="20180729134152" dir="1532853712nfgwipmwkd" file="text.html"/>
      <record id="1549105864osq0l2o0o5" name="Ключи для установки Windows Server 2008+" author="br0ke" url="https://sysadmin-note.ru/obshhie-klyuchi-windows-dlya-ustanovki/" tags="microsoft, windows, key, keys, license, server" ctime="20190202161104" dir="1549105864aihv6fo0z7" file="text.html"/>
      <record id="1549106073xp0vx879xo" name="Ключи для установки Windows 7+" author="br0ke" url="https://sysadmin-note.ru/obshhie-klyuchi-windows-dlya-ustanovki/" tags="microsoft, windows, home, 7, 8, 8.1, 10, keys, key, license" ctime="20190202161433" dir="1549106073sj8hiwa20u" file="text.html"/>
+     <record id="1589299894mxml6675g1" name="Генерация ssh-ключей для Git for Windows" author="br0ke" url="https://habr.com/ru/post/266667/" tags="microsoft, windows, git, ssh, key, keys, puttygen, ssh-agent" ctime="20200512211134" dir="1589299894ed3xxabp61" file="text.html"/>
+     <record id="1589300348sg3yew2n0v" name="Создание универсальной UEFI загрузочной флешки для Windows 10" author="br0ke" url="https://techbit.ca/2019/02/creating-a-bootable-windows-10-uefi-usb-drive-using-linux/" tags="microsoft, windows, install, bootable, boot, usb, disk, drive, stick, uefi, fat, fat32, ntfs" ctime="20200512211908" dir="1589300348lro72yne0o" file="text.html"/>
+     <record id="15895604107lvlradd7u" name="Добавить Git Bash в Windows Terminal" author="br0ke" url="https://stackoverflow.com/a/57369284/10650942" tags="microsoft, windows, terminal, git, bash, add, configuration" ctime="20200515213330" dir="1589560410br0xkagtpj" file="text.html"/>
     </recordtable>
+    <node crypt="" id="1589603318er515vipcn" name="chocolatey">
+     <recordtable>
+      <record id="15896035133ua9s3lcpx" name="Установить Chocolatey – пакетный менеджер для Windows" author="br0ke" url="https://chocolatey.org/docs/installation" tags="microsoft, windows, chocolatey, choco, install, installer, package, manager" ctime="20200516093153" dir="15896035139grd2zn5s0" file="text.html"/>
+      <record id="1589603788ydznre8m48" name="Установить программу через Chocolatey" author="br0ke" url="https://chocolatey.org/docs/commands-install" tags="microsoft, windows, chocolatey, choco, install, software, package, manager" ctime="20200516093628" dir="1589603788oh8vnsf6mz" file="text.html"/>
+      <record id="158960389422480rjk3s" name="Обновить все установленные через Chocolatey программы" author="br0ke" url="https://chocolatey.org/docs/commandsupgrade" tags="microsoft, windows, chocolatey, choco, update, upgrade, all, software, package, packages, manager" ctime="20200516093814" dir="1589603894uth0fiefqh" file="text.html"/>
+      <record id="1589604180dch35cqngz" name="Получить список установленных через Chocolatey программ" author="br0ke" url="https://chocolatey.org/docs/commands-list" tags="microsoft, windows, chocolatey, choco, list, installed, all" ctime="20200516094300" dir="15896041808amq5ntol7" file="text.html"/>
+     </recordtable>
+     <node crypt="" id="1589605555pefqcpbzlm" name="Software install recipes">
+      <recordtable>
+       <record id="15896043018pwzjmm660" name="Установить Git for Windows через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/git" tags="windows, chocolatey, choco, install, git" ctime="20200516100614" dir="1589604301uvw061t3pk" file="text.html"/>
+       <record id="1589604711xi9f1uom9b" name="Установить Google Chrome через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/GoogleChrome" tags="windows, chocolatey, choco, install, google, chrome, browser" ctime="20200516100617" dir="1589604711bdjgj6f45w" file="text.html"/>
+       <record id="1589604357fbe8wxla3y" name="Установить 7z через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/7zip" tags="windows, chocolatey, choco, install, 7z, 7zip, archiver" ctime="20200516100624" dir="1589604357n8x465hqwx" file="text.html"/>
+       <record id="1589604754b3xpzm2hno" name="Установить Mozilla Firefox через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/Firefox" tags="windows, chocolatey, choco, install, mozilla, firefox, browser" ctime="20200516100626" dir="1589604754dk1hx9bf35" file="text.html"/>
+       <record id="1589604792llzo14jawx" name="Установить Notepad++ через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/notepadplusplus.install" tags="windows, chocolatey, choco, install, nodepad, notepadplusplus, notepad++, text, editor" ctime="20200516100628" dir="15896047928ybzhhywl6" file="text.html"/>
+       <record id="1589604841ub6pnvjxtc" name="Установить VLC через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/vlc" tags="windows, chocolatey, choco, install, vlc, videolan, player, video, media" ctime="20200516100630" dir="1589604841v6j7oomkfj" file="text.html"/>
+       <record id="1589604877f2wdzt1px5" name="Установить PuTTY через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/putty.install" tags="windows, chocolatey, choco, install, putty, ssh, client" ctime="20200516100632" dir="15896048773a0tf62t28" file="text.html"/>
+       <record id="1589604905ve0v2l4yov" name="Установить Python через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/python3#versionhistory" tags="windows, chocolatey, choco, install, python, python3" ctime="20200516100634" dir="1589604905a9i04f9nxt" file="text.html"/>
+       <record id="1589605026kdelwowa48" name="Установить GIMP через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/gimp" tags="windows, chocolatey, choco, install, gimp, image, editor, graphic, graphical" ctime="20200516100636" dir="15896050261eg09e5uqw" file="text.html"/>
+       <record id="1589605059r4xxf4i5we" name="Установить Paint.NET через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/paint.net" tags="windows, chocolatey, choco, install, paint, net, paint.net, paintdotnet, pdn, image, editor, graphic, graphical" ctime="20200516100638" dir="1589605059ykkirl1wd6" file="text.html"/>
+       <record id="1589605506c5ujtv6198" name="Установить Telegram через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/telegram.install" tags="windows, chocolatey, choco, install, telegram, messenger" ctime="20200516100641" dir="1589605506wph1t2ip3p" file="text.html"/>
+       <record id="1589605477kygyq0drse" name="Установить TeamViewer через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/teamviewer" tags="windows, chocolatey, choco, install, teamviewer, team, viewer" ctime="20200516100643" dir="1589605477zqzz6h1xe9" file="text.html"/>
+       <record id="1589605451uykptddm03" name="Установить Slack через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/slack" tags="windows, chocolatey, choco, install, slack, messenger" ctime="20200516100645" dir="1589605451ufftf4ruwe" file="text.html"/>
+       <record id="1589605412xvgk14j3qc" name="Установить Jetbrains Toolbox через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/jetbrainstoolbox" tags="windows, chocolatey, choco, install, jetbrains, toolbox, ide, ides, installer, intellij, idea, pycharm" ctime="20200516100647" dir="15896054124l7ovkh425" file="text.html"/>
+       <record id="1589605369miqsx6r1qg" name="Установить Microsoft Windows Terminal через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/microsoft-windows-terminal" tags="windows, chocolatey, choco, install, microsoft, windows, terminal, bash, cmd, powershell" ctime="20200516100648" dir="158960536940jo18qnnw" file="text.html"/>
+       <record id="1589605335otjnsv19uc" name="Установить Steam через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/steam" tags="windows, chocolatey, choco, install, valve, steam, game" ctime="20200516100650" dir="1589605335g6zv1llw5j" file="text.html"/>
+       <record id="1589605306laglyd01ok" name="Установить Postman через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/postman" tags="windows, chocolatey, choco, install, postman, http, client" ctime="20200516100652" dir="1589605306ulhnwu5lsp" file="text.html"/>
+       <record id="1589605264rosadsk1fc" name="Установить qBittorrent через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/qbittorrent" tags="windows, chocolatey, choco, install, qbittorrent, torrent, client" ctime="20200516100654" dir="1589605264ypaezrbt0s" file="text.html"/>
+       <record id="1589605196oi1p9u9205" name="Установить Zoom Meetings через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/zoom" tags="windows, chocolatey, choco, install, zoom, meetings, video" ctime="20200516100656" dir="15896051962pej4f5x8n" file="text.html"/>
+       <record id="1589605146ccy6u4icjv" name="Установить Mozilla Thunderbird через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/thunderbird" tags="windows, chocolatey, choco, install, mozilla, thunderbird, mail, client" ctime="20200516100658" dir="15896051468ltbzmhx26" file="text.html"/>
+       <record id="1589605104yf29mbipso" name="Установить Visual Studio Code через Chocolatey" author="br0ke" url="https://chocolatey.org/packages/vscode" tags="windows, chocolatey, choco, install, visual, studio, code, vscode, editor, ide" ctime="20200516100700" dir="1589605104er06zhp2ox" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
    </node>
    <node crypt="" id="1521029860ul0fijeg5m" name="Базы данных">
     <node crypt="" id="1521029865tkxkf3llb9" name="MySQL">
      <recordtable>
       <record id="1521030062nx54td8ehs" name="Команды MySQL из терминала" author="br0ke" url="https://askubuntu.com/questions/341584/how-to-run-mysql-command-from-terminal" tags="database, mysql, mariadb, cli, list, users, databases, change, password, tables" ctime="20180314172102" dir="1521030062egwfy45egx" file="text.html"/>
+      <record id="1582553294uc7sz6t3os" name="Показать структуру таблицы в MySQL" author="br0ke" url="https://stackoverflow.com/a/4294526/10650942" tags="mysql, mariadb, maria, sql, db, dbms, table, structure, column, columns, definition, define, create, table, show" ctime="20200224190814" dir="1582553294me3xwwp8hs" file="text.html"/>
      </recordtable>
     </node>
     <node crypt="" id="1521906623twk9efhlxn" name="PostgreSQL">
@@ -707,6 +803,11 @@
       <record id="1550828981opibwvfevz" name="Запретить подключение к БД в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/3185413/10650942" tags="postgresql, postgres, postgre, sql, pg_database, datallowconn, restrict, connect, forbid" ctime="20190222144941" dir="1550828981me2hc5ad8b" file="text.html"/>
       <record id="1550829532zypjizxzyu" name="Статистика медленных запросов через pg_stat_statements в PostgreSQL" author="br0ke" url="https://www.postgresql.org/docs/current/pgstatstatements.html" tags="postgresql, postgres, postgre, sql, stat, pg_stat_statements, statistics, long, query" ctime="20190222145852" dir="1550829532mornd8vu59" file="text.html"/>
       <record id="1553171575g4set4yvw6" name="Создать базу данных, если она ещё не создана, в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/44512503/10650942" tags="postgresql, postgres, postgre, sql, create, database, if not exists, drop" ctime="20190321173255" dir="1553171575mv488bdcud" file="text.html"/>
+      <record id="1576051468ykbfq1wje6" name="Вставить несколько записей одним запросов в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/20820950/10650942" tags="sql, postgre, postgres, postgresql, insert, create, table, multiple, multi, rows, query, one, single, syntax" ctime="20191211130428" dir="1576051468g5xr0fmbro" file="text.html"/>
+      <record id="1577109170i46lduyd7s" name="Удалить столбец из таблицы в PostgreSQL" author="br0ke" url="http://www.postgresqltutorial.com/postgresql-drop-column/" tags="postgresql, postgres, postgre, dbms, database, data, base, table, alter, drop, column, if, exists" ctime="20191223185250" dir="15771091701jw4josv9q" file="text.html"/>
+      <record id="15772816656k7orwolab" name="Узнать, какие запросы блокируют друг друга в PostgreSQL" author="br0ke" url="https://stackoverflow.com/a/56411059/10650942" tags="postgresql, postgres, postgre, sql, database, dbms, block, lock, query, queries, blocking, slow, pg_stat_activity," ctime="20191225184745" dir="1577281665czapor7pan" file="text.html"/>
+      <record id="1577864676ylkbystbvv" name="Оконная функция row_number для нумерации строк в выводе в PostgreSQL" author="br0ke" url="https://www.postgresqltutorial.com/postgresql-row_number/" tags="postgresql, postgres, postgre, sql, window, function, aggregate, row, number, row_number, sequence" ctime="20200101124436" dir="1577864676e4i6ulmyaj" file="text.html"/>
+      <record id="1577865542rxe8l5idc1" name="Оконные функции для ранжирования строк в выводе в PostgreSQL" author="br0ke" url="https://www.postgresqltutorial.com/postgresql-rank-function/" tags="postgresql, postgres, postgre, sql, window, function, aggregate, rank, dense, dense_rank, ranking, rating, competition, row, rows, row_number, number" ctime="20200101125902" dir="1577865542weep41haaf" file="text.html"/>
      </recordtable>
      <node crypt="" id="1530713364cqalqp7h65" name="PostGIS">
       <recordtable>
@@ -822,6 +923,8 @@
       <record id="1555752963yvnxujbqvs" name="Очистить кэш/индексы в IntelliJ / PyCharm" author="br0ke" url="https://intellij-support.jetbrains.com/hc/en-us/community/posts/206258359-Is-there-a-way-to-force-indexing-" tags="ide, jetbrains, intellij, idea, pycharm, cache, index, indices, indexes, clean, force, reindex, invalidate" ctime="20190420143603" dir="155575296391x4yjc2fb" file="text.html"/>
       <record id="15571315932nzsb7v6oi" name="Запустить линтеры через PyCharm" author="br0ke" url="" tags="ide, jetbrains, pycharm, idea, intellij, linter, linters, run, debug, configuration" ctime="20190506133313" dir="1557131593e35b81ra0l" file="text.html"/>
       <record id="1575203318t4h1e3chiy" name="Multicursor (множественный курсор, множественная каретка) в IntelliJ / PyCharm" author="br0ke" url="https://www.jetbrains.com/help/pycharm-edu/multicursor.html" tags="ide, idea, jetbrains, intellij, pycharm, multi, multicursor, hotkey" ctime="20191201172838" dir="1575203318ch4yx4ligu" file="text.html"/>
+      <record id="1582699396jm6n9214ez" name="Назначить действие Force-click (на Mac Book) в IntelliJ / PyCharm" author="br0ke" url="https://stackoverflow.com/a/41598450/10650942" tags="ide, jetbrains, mac, macbook, touchpad, force, hard, deep, click, action, bind" ctime="20200226114316" dir="1582699396lb6js6tch5" file="text.html"/>
+      <record id="15891714043ov3ufvzwa" name="Установить JetBrains Toolbox на Linux" author="br0ke" url="https://github.com/nagygergo/jetbrains-toolbox-install" tags="jetbrains, toolbox, app, install, linux, installer, script" ctime="20200511093004" dir="15891714047mmpyo9ire" file="text.html"/>
      </recordtable>
     </node>
    </node>
@@ -853,6 +956,40 @@
      <record id="1575438253a0lqfb97ph" name="Установить pyenv на Mac" author="br0ke" url="" tags="apple, mac, macos, macosx, python, pyenv, install, brew, homebrew" ctime="20191204104413" dir="1575438253x3d2ou2b6u" file="text.html"/>
      <record id="15758762673phwwbhvub" name="Установить VSCode на Mac" author="br0ke" url="https://formulae.brew.sh/cask/visual-studio-code" tags="apple, mac, macos, macosx, brew, install, cask, vscode, code, visual, studio" ctime="20191209122427" dir="1575876267wev11f6fju" file="text.html"/>
      <record id="1575966549nc3j3y4iry" name="Закрывать окно терминала при выходе из шелла в Mac" author="br0ke" url="https://superuser.com/a/160481/993215" tags="apple, mac, macos, macosx, terminal, shell, bash, fish, exit, close, tab, window, ctrl+d" ctime="20191210132909" dir="1575966549dixlej6dpa" file="text.html"/>
+     <record id="1577091852enkcxzkn6f" name="Перезапустить TouchBar на MacBook Pro, если он перестал отвечать на нажатия" author="br0ke" url="https://discussions.apple.com/thread/250243222?answerId=250453045022#250453045022" tags="apple, mac, macos, macosx, macbook, book, pro, touch, bar, touchbar, restart" ctime="20191223140422" dir="1577091852vyjxsurrf8" file="text.html"/>
+     <record id="1577281833xoemx8qgy8" name="Показать скрытые файлы в диалгоах Mac" author="br0ke" url="http://osxdaily.com/2011/03/01/show-hidden-files-in-mac-os-x-dialog-boxes-with-commandshiftperiod/" tags="apple, mac, macos, macosx, show, hidden, hide, file, files, finder" ctime="20191225185033" dir="1577281833xtxpt8guov" file="text.html"/>
+     <record id="15772826156ylm7oejq3" name="Показать список используемых DNS-серверов на Mac" author="br0ke" url="https://apple.stackexchange.com/a/98024/356903" tags="apple, mac, macos, macosx, dns, name, server, servers, list, show, used, use, resolve, resolv, resolver" ctime="20191225190335" dir="1577282615rfv15v76vc" file="text.html"/>
+     <record id="15772828521hxus4a1ry" name="Настроить разную раскладку клавиатуры для окон в MacOS" author="br0ke" url="https://superuser.com/a/185422/993215" tags="apple, mac, macos, macosx, keyboard, layout, language, window, windows, input, source, sources, document, documents" ctime="20191225190732" dir="1577282852ouppzc4rr4" file="text.html"/>
+     <record id="1578385789bnm1pxnb4d" name="Установить iTerm2 на Mac" author="br0ke" url="https://www.code2bits.com/how-to-install-iterm2-on-macos-using-homebrew/" tags="apple, mac, macos, macosx, brew, homebrew, install, cask, terminal, emulator, console, iterm, iterm2" ctime="20200107132949" dir="1578385789bkxyc5uo4m" file="text.html"/>
+     <record id="1579413514l8sg7n17f5" name="Установить Steam на Mac" author="br0ke" url="https://github.com/Homebrew/homebrew-cask/blob/master/Casks/steam.rb" tags="apple, mac, macos, macosx, brew, install, cask, steam, valve" ctime="20200119105834" dir="1579413514zjr06cyz5u" file="text.html"/>
+     <record id="1579508672giuka83i1i" name="Установить Go (golang) на Mac" author="br0ke" url="https://ahmadawais.com/install-go-lang-on-macos-with-homebrew/" tags="apple, mac, macos, macosx, brew, install, go, golang" ctime="20200120132432" dir="15795086727l7a9jn1a9" file="text.html"/>
+     <record id="1588673109xp2aatpehs" name="Сброс NVRAM или PRAM на MacBook" author="br0ke" url="https://support.apple.com/en-us/HT204063" tags="apple, macbook, mac, macbookpro, pro, reset, ram, nvram, pram" ctime="20200505150509" dir="15886731099nfi00w6bf" file="text.html"/>
+     <record id="15886735154tu8ue07ro" name="Сброс SMC на MacBook" author="br0ke" url="https://support.apple.com/en-us/HT201295" tags="apple, mac, macbook, pro, macbookpro, smc, power, reset, usb, battery" ctime="20200505151155" dir="1588673515m2bdzehlqy" file="text.html"/>
+    </recordtable>
+    <node crypt="" id="1582698636o4uw9ws749" name="AppleScript">
+     <recordtable>
+      <record id="15826987418kg122a1mm" name="Послать нажатие клавиш при помощи AppleScript" author="br0ke" url="https://stackoverflow.com/a/3697177/10650942" tags="mac, macos, macosx, automation, apple, script, applescript, key, press, push, keyboard, hotkey, shortcut" ctime="20200226113221" dir="15826987415hyhxtaidn" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="" id="1579508399urpbpf3aa2" name="Go">
+    <recordtable>
+     <record id="1579508529gfbpc56bzb" name="Настроить переменные окружения для Go в Fish" author="br0ke" url="https://ahmadawais.com/install-go-lang-on-macos-with-homebrew/" tags="golang, go, fish, shell, env, envvar, envvars, environment, variable, variables, GOPATH, GOROOT" ctime="20200120132209" dir="15795085298lzwmmq81c" file="text.html"/>
+     <record id="1579508741u4ux0ij57n" name="Установить godoc и golint при помощи go" author="br0ke" url="https://ahmadawais.com/install-go-lang-on-macos-with-homebrew/" tags="go, golang, godoc, golint, install, add" ctime="20200120132541" dir="1579508741p06gr5r6lo" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="15888349583zvu30nw3e" name="Markdown">
+    <recordtable>
+     <record id="1588835236ldbz8p3x5v" name="Комментарии в Markdown" author="br0ke" url="https://stackoverflow.com/a/4829998/10650942" tags="markdown, md, markup, comment, commentary, comments" ctime="20200507120716" dir="1588835236mwwulxlnu6" file="text.html"/>
+     <record id="1588836108yjkvk1wumz" name="Блок с предупреждением в Markdown" author="br0ke" url="https://stackoverflow.com/a/57118885/10650942" tags="markdown, md, markup, warning, block, box, admonition, caution" ctime="20200507122148" dir="1588836108706529uyuq" file="text.html"/>
+     <record id="1588836288ki7s7azo0q" name="Выравнивание изображения в Markdown" author="br0ke" url="https://davidwells.io/snippets/how-to-align-images-in-markdown" tags="markdown, md, markup, image, img, align, center, left, right" ctime="20200507122448" dir="1588836288o7saaksdy9" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1588836585d6xxjtw00s" name="GitHub">
+    <recordtable>
+     <record id="15887480638rlcuiorfl" name="Встроить код одного файла из gist (не весь gist целиком) на сайт" author="br0ke" url="https://stackoverflow.com/a/14267385/10650942" tags="github, gist, file, embed, only, one" ctime="20200507122945" dir="1588748063qkt3wdwu1b" file="text.html"/>
+     <record id="1588748416aw4rtpavvd" name="Конвертировать обычный git-репозиторий в GitHub Gist с сохранением истории" author="br0ke" url="https://stackoverflow.com/a/32954515/10650942" tags="github, gist, git, repo, convert, create" ctime="20200507122945" dir="15887484168w35fm0tv7" file="text.html"/>
+     <record id="1588836886qhkeaa1mwh" name="Собственный домен для сайта на GitHub Pages" author="br0ke" url="https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a" tags="github, pages, cname, CNAME, domain, custom" ctime="20200507123446" dir="1588836886ofegvmlocd" file="text.html"/>
     </recordtable>
    </node>
   </node>
